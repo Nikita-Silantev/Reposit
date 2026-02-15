@@ -7,7 +7,7 @@ namespace ConsoleApp1
         private static void Main()
         {
             Console.WriteLine("Python for pidorasov");
-            Console.WriteLine("New text for commit");
+            Console.WriteLine("Python for pidorasov");
         }
     }
 }
