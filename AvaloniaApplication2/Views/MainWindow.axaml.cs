@@ -8,5 +8,8 @@ namespace AvaloniaApplication2.Views
         {
             InitializeComponent();
         }
+        //метод переджачи значений
+        //метод передачи действия
+        //метод возврата(принимающий метод
     }
 }
